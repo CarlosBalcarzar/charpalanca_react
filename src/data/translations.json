@@ -1,0 +1,623 @@
+{
+  "es": {
+    "nav": {
+      "home": "Inicio",
+      "varieties": "Variedades",
+      "essence": "Nuestra esencia",
+      "identity": "Identidad chapaca",
+      "gallery": "Galería",
+      "contact": "Contacto",
+      "history": "Nuestra historia"
+    },
+    "common": {
+      "explore": "Descubrir variedades",
+      "essence": "Nuestra esencia",
+      "more": "Explorar",
+      "view": "Conocer la variedad",
+      "back": "Todas las variedades",
+      "contact": "Contacto",
+      "tag": "Macerados artesanales de frutas",
+      "origin": "Inspirado en Tarija, Bolivia",
+      "learn": "Conoce nuestra identidad",
+      "products": "Explora los sabores",
+      "close": "Cerrar imagen",
+      "all": "Ver todas las variedades",
+      "imagery": "Imágenes conceptuales de marca"
+    },
+    "home": {
+      "intro": "Una identidad que se siente antes de descubrirse.",
+      "sub": "La tradición chapaca se encuentra con una estética artesanal sofisticada.",
+      "heroEyebrow": "Inspiración chapaca · Tarija",
+      "sectionEyebrow": "Una marca, tres expresiones",
+      "sectionTitle": "El carácter de Charpalanca",
+      "sectionCopy": "Frutas, identidad regional y una presentación elegante: nuestra forma de entender una marca memorable.",
+      "pillars": [
+        [
+          "01",
+          "Raíz artesanal",
+          "El valor de lo hecho con intención."
+        ],
+        [
+          "02",
+          "Esencia chapaca",
+          "Una identidad inspirada en Tarija."
+        ],
+        [
+          "03",
+          "Elegancia accesible",
+          "Una estética cuidada en cada detalle."
+        ]
+      ],
+      "varietyTitle": "Cuatro formas de descubrirnos",
+      "varietyCopy": "Piña, naranja, coco y durazno. Una colección de expresiones frutales con identidad propia.",
+      "feature": "Más que una presentación",
+      "featureText": "La identidad está en cada detalle: en la tipografía, la luz, la textura y la relación con nuestro origen.",
+      "identityTitle": "Un origen que inspira",
+      "identityText": "Nuestra mirada nace en Tarija, donde la cultura regional y el universo frutal se convierten en lenguaje de marca.",
+      "closing": "Una expresión de Tarija. Una identidad Charpalanca."
+    },
+    "varieties": {
+      "eyebrow": "La colección",
+      "title": "Nuestras variedades",
+      "intro": "Cuatro expresiones frutales, una misma identidad. Descubre las variedades de Charpalanca.",
+      "note": "Imágenes ilustrativas de la propuesta de presentación.",
+      "names": {
+        "pina": "Piña",
+        "naranja": "Naranja",
+        "coco": "Coco",
+        "durazno": "Durazno"
+      },
+      "desc": {
+        "pina": "Una expresión tropical de identidad dorada.",
+        "naranja": "Una expresión cítrica de carácter cálido.",
+        "coco": "Una expresión suave de estética marfil.",
+        "durazno": "Una expresión frutal de tonos melocotón."
+      },
+      "kickers": {
+        "pina": "Expresión dorada",
+        "naranja": "Expresión ámbar",
+        "coco": "Expresión marfil",
+        "durazno": "Expresión melocotón"
+      }
+    },
+    "detail": {
+      "back": "Regresar a variedades",
+      "label": "Una variedad de Charpalanca",
+      "eyebrow": "La colección de frutas",
+      "discover": "Explora otra expresión",
+      "title": "Una identidad, cuatro expresiones",
+      "disclaimer": "Las imágenes son representaciones conceptuales de la presentación visual.",
+      "views": "Dos perspectivas",
+      "front": "Vista frontal",
+      "angle": "Segundo ángulo",
+      "next": "Explorar otras variedades"
+    },
+    "essence": {
+      "eyebrow": "Filosofía de marca",
+      "title": "Nuestra esencia",
+      "intro": "Una visión de lo artesanal donde la identidad regional y el cuidado estético se encuentran.",
+      "subheading": "La belleza de lo que representa una marca",
+      "paragraph": "Charpalanca nace como una propuesta de macerados de frutas inspirada en la identidad chapaca. Nuestra dirección visual reúne materiales, formas y contrastes para comunicar una experiencia artesanal sofisticada y cercana.",
+      "quote": "El carácter de una marca también se construye en los detalles.",
+      "cards": [
+        [
+          "01",
+          "Identidad",
+          "Tarija como inspiración cultural y visual."
+        ],
+        [
+          "02",
+          "Expresión frutal",
+          "Piña, naranja y coco como protagonistas de la colección."
+        ],
+        [
+          "03",
+          "Presentación",
+          "Una estética premium accesible, elegante y coherente."
+        ]
+      ]
+    },
+    "identity": {
+      "eyebrow": "Origen e inspiración",
+      "title": "Identidad chapaca",
+      "intro": "Tarija inspira el lenguaje visual y el carácter de Charpalanca.",
+      "subheading": "Una mirada al origen",
+      "paragraph": "La identidad chapaca es el punto de partida de nuestra propuesta. Inspirados en Tarija, reunimos elementos visuales de su paisaje y una paleta cálida que dialoga con la elaboración artesanal de frutas.",
+      "quote": "Tarija no es solamente un lugar: es una inspiración para nuestra identidad.",
+      "label": "Inspirado en Tarija",
+      "cards": [
+        [
+          "Origen",
+          "Una referencia regional que da sentido a la marca."
+        ],
+        [
+          "Texturas",
+          "Materiales, luces y contrastes de carácter artesanal."
+        ],
+        [
+          "Frutas",
+          "Piña, naranja y coco como expresión del concepto Charpalanca."
+        ]
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Universo visual",
+      "title": "Galería",
+      "intro": "Una mirada a las imágenes, texturas y expresiones visuales de Charpalanca.",
+      "labels": [
+        "Celebraciones",
+        "Aniversarios",
+        "Regalos",
+        "Piña",
+        "Naranja",
+        "Coco",
+        "Durazno",
+        "Nuestros valles",
+        "Nuestro origen"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Conversemos",
+      "title": "Contacto",
+      "intro": "Estamos disponibles para consultas institucionales sobre Charpalanca.",
+      "phone": "Teléfono",
+      "place": "Ubicación",
+      "placeValue": "Tarija, Bolivia",
+      "social": "Redes sociales",
+      "soon": "Próximamente",
+      "phoneAction": "Llamar",
+      "other": "Una marca inspirada en Tarija",
+      "otherText": "Comunícate con nosotros mediante el canal de contacto disponible.",
+      "legal": "La disponibilidad de productos e información técnica debe confirmarse por los canales correspondientes."
+    },
+    "footer": {
+      "desc": "Macerados artesanales de frutas inspirados en la identidad chapaca de Tarija.",
+      "explore": "Explorar",
+      "institutional": "Institucional",
+      "copyright": "Charpalanca. Identidad visual y contenido del sitio.",
+      "note": "Imágenes de carácter ilustrativo."
+    },
+    "history": {
+      "eyebrow": "Nuestro origen",
+      "title": "Nuestra historia",
+      "intro": "Una idea compartida, una inspiración de Tarija.",
+      "heading": "Una idea nacida entre amigos",
+      "paragraphs": [
+        "Todo comenzó durante una reunión de amigos. Entre conversaciones sobre bebidas y sabores, surgió una pregunta: ¿por qué no crear algo propio, diferente y especial?",
+        "Con nuestros conocimientos y la inspiración de la tradición tarijeña de los macerados de frutas, nació la idea de Charpalanca.",
+        "Desde el principio, buscamos desarrollar una marca que fuera más allá de una bebida cotidiana: una propuesta artesanal con identidad chapaca, presentación elegante y una imagen premium."
+      ]
+    },
+    "moments": {
+      "eyebrow": "Cada ocasión tiene su encanto",
+      "title": "Momentos Charpalanca",
+      "intro": "Una expresión elegante para momentos que importan.",
+      "labels": [
+        "Regalos especiales",
+        "Aniversarios",
+        "Eventos y celebraciones",
+        "Un recuerdo de Tarija"
+      ],
+      "texts": [
+        "Un detalle que distingue",
+        "Momentos para recordar",
+        "Celebraciones con identidad",
+        "Nuestra inspiración regional"
+      ]
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "varieties": "Varieties",
+      "essence": "Our essence",
+      "identity": "Chapaco identity",
+      "gallery": "Gallery",
+      "contact": "Contact",
+      "history": "Our story"
+    },
+    "common": {
+      "explore": "Explore varieties",
+      "essence": "Our essence",
+      "more": "Explore",
+      "view": "Discover this variety",
+      "back": "All varieties",
+      "contact": "Contact",
+      "tag": "Artisanal fruit-infused beverages",
+      "origin": "Inspired by Tarija, Bolivia",
+      "learn": "Explore our identity",
+      "products": "Explore the flavors",
+      "close": "Close image",
+      "all": "View all varieties",
+      "imagery": "Conceptual brand imagery"
+    },
+    "home": {
+      "intro": "An identity you feel before you discover it.",
+      "sub": "Chapaco tradition meets refined artisanal aesthetics.",
+      "heroEyebrow": "Chapaco inspiration · Tarija",
+      "sectionEyebrow": "One brand, three expressions",
+      "sectionTitle": "The character of Charpalanca",
+      "sectionCopy": "Fruit, regional identity and elegant presentation: our vision of a memorable brand.",
+      "pillars": [
+        [
+          "01",
+          "Artisanal roots",
+          "The value of creating with intention."
+        ],
+        [
+          "02",
+          "Chapaco spirit",
+          "An identity inspired by Tarija."
+        ],
+        [
+          "03",
+          "Accessible elegance",
+          "A carefully crafted aesthetic in every detail."
+        ]
+      ],
+      "varietyTitle": "Four ways to discover us",
+      "varietyCopy": "Pineapple, orange, coconut and peach. A collection of distinctive fruit expressions.",
+      "feature": "Beyond presentation",
+      "featureText": "Identity lives in every detail: typography, light, texture and our connection to place.",
+      "identityTitle": "An inspiring origin",
+      "identityText": "Our perspective begins in Tarija, where regional culture and fruit inspire our brand language.",
+      "closing": "An expression of Tarija. The Charpalanca identity."
+    },
+    "varieties": {
+      "eyebrow": "The collection",
+      "title": "Our varieties",
+      "intro": "Four fruit expressions, one identity. Discover the Charpalanca collection.",
+      "note": "Illustrative images of proposed product presentation.",
+      "names": {
+        "pina": "Pineapple",
+        "naranja": "Orange",
+        "coco": "Coconut",
+        "durazno": "Peach"
+      },
+      "desc": {
+        "pina": "A tropical expression with a golden identity.",
+        "naranja": "A citrus expression with warm character.",
+        "coco": "A gentle expression with an ivory aesthetic.",
+        "durazno": "A fruit expression in warm peach hues."
+      },
+      "kickers": {
+        "pina": "Golden expression",
+        "naranja": "Amber expression",
+        "coco": "Ivory expression",
+        "durazno": "Peach expression"
+      }
+    },
+    "detail": {
+      "back": "Back to varieties",
+      "label": "A Charpalanca variety",
+      "eyebrow": "The fruit collection",
+      "discover": "Explore another expression",
+      "title": "One identity, four expressions",
+      "disclaimer": "Images are conceptual representations of the visual presentation.",
+      "views": "Two perspectives",
+      "front": "Front view",
+      "angle": "Second angle",
+      "next": "Explore other flavors"
+    },
+    "essence": {
+      "eyebrow": "Brand philosophy",
+      "title": "Our essence",
+      "intro": "An artisanal vision where regional identity meets refined visual design.",
+      "subheading": "The beauty of what a brand represents",
+      "paragraph": "Charpalanca is a proposal for fruit macerates inspired by Chapaco identity. Our visual direction brings together materials, forms and contrast to communicate a sophisticated yet approachable artisanal experience.",
+      "quote": "A brand’s character is also built in the details.",
+      "cards": [
+        [
+          "01",
+          "Identity",
+          "Tarija as cultural and visual inspiration."
+        ],
+        [
+          "02",
+          "Fruit expression",
+          "Pineapple, orange and coconut at the heart of the collection."
+        ],
+        [
+          "03",
+          "Presentation",
+          "An accessible premium aesthetic, elegant and consistent."
+        ]
+      ]
+    },
+    "identity": {
+      "eyebrow": "Origin and inspiration",
+      "title": "Chapaco identity",
+      "intro": "Tarija inspires Charpalanca’s visual language and character.",
+      "subheading": "A look at our origins",
+      "paragraph": "Chapaco identity is the starting point of our proposal. Inspired by Tarija, we bring together visual elements of its landscape and a warm palette that complements artisanal fruit preparation.",
+      "quote": "Tarija is not merely a place: it inspires our identity.",
+      "label": "Inspired by Tarija",
+      "cards": [
+        [
+          "Origin",
+          "A regional reference giving meaning to the brand."
+        ],
+        [
+          "Textures",
+          "Materials, light and contrast with an artisanal character."
+        ],
+        [
+          "Fruit",
+          "Pineapple, orange and coconut shape the Charpalanca concept."
+        ]
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Visual universe",
+      "title": "Gallery",
+      "intro": "Explore Charpalanca’s images, textures and visual expressions.",
+      "labels": [
+        "Celebrations",
+        "Anniversaries",
+        "Gifts",
+        "Pineapple",
+        "Orange",
+        "Coconut",
+        "Peach",
+        "Our valleys",
+        "Our origins"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Get in touch",
+      "title": "Contact",
+      "intro": "We are available for institutional inquiries about Charpalanca.",
+      "phone": "Phone",
+      "place": "Location",
+      "placeValue": "Tarija, Bolivia",
+      "social": "Social media",
+      "soon": "Coming soon",
+      "phoneAction": "Call",
+      "other": "A brand inspired by Tarija",
+      "otherText": "Reach us through the available contact channel.",
+      "legal": "Product availability and technical information should be confirmed through the appropriate channels."
+    },
+    "footer": {
+      "desc": "Artisanal fruit macerates inspired by the Chapaco identity of Tarija.",
+      "explore": "Explore",
+      "institutional": "Institutional",
+      "copyright": "Charpalanca. Website content and visual identity.",
+      "note": "Illustrative imagery."
+    },
+    "history": {
+      "eyebrow": "Our beginnings",
+      "title": "Our story",
+      "intro": "A shared idea, inspired by Tarija.",
+      "heading": "An idea born among friends",
+      "paragraphs": [
+        "It all began at a gathering of friends. While talking about drinks and flavors, a question arose: why not create something of our own, something different and special?",
+        "With our knowledge and inspiration from Tarija’s tradition of fruit macerates, the idea of Charpalanca was born.",
+        "From the start, we wanted a brand beyond an everyday beverage: an artisanal proposal with Chapaco identity, elegant presentation and a premium image."
+      ]
+    },
+    "moments": {
+      "eyebrow": "Every occasion is special",
+      "title": "Charpalanca moments",
+      "intro": "An elegant expression for meaningful occasions.",
+      "labels": [
+        "Special gifts",
+        "Anniversaries",
+        "Events and celebrations",
+        "A memory of Tarija"
+      ],
+      "texts": [
+        "A distinctive gift",
+        "Moments to remember",
+        "Celebrations with identity",
+        "Regional inspiration"
+      ]
+    }
+  },
+  "pt": {
+    "nav": {
+      "home": "Início",
+      "varieties": "Variedades",
+      "essence": "Nossa essência",
+      "identity": "Identidade chapaca",
+      "gallery": "Galeria",
+      "contact": "Contato",
+      "history": "Nossa história"
+    },
+    "common": {
+      "explore": "Conhecer variedades",
+      "essence": "Nossa essência",
+      "more": "Explorar",
+      "view": "Conhecer a variedade",
+      "back": "Todas as variedades",
+      "contact": "Contato",
+      "tag": "Macerados artesanais de frutas",
+      "origin": "Inspirado em Tarija, Bolívia",
+      "learn": "Conheça nossa identidade",
+      "products": "Explore os sabores",
+      "close": "Fechar imagem",
+      "all": "Ver todas as variedades",
+      "imagery": "Imagens conceituais da marca"
+    },
+    "home": {
+      "intro": "Uma identidade que se sente antes de ser descoberta.",
+      "sub": "A tradição chapaca encontra uma estética artesanal sofisticada.",
+      "heroEyebrow": "Inspiração chapaca · Tarija",
+      "sectionEyebrow": "Uma marca, três expressões",
+      "sectionTitle": "O caráter da Charpalanca",
+      "sectionCopy": "Frutas, identidade regional e apresentação elegante: nossa visão de uma marca memorável.",
+      "pillars": [
+        [
+          "01",
+          "Raízes artesanais",
+          "O valor de criar com intenção."
+        ],
+        [
+          "02",
+          "Essência chapaca",
+          "Uma identidade inspirada em Tarija."
+        ],
+        [
+          "03",
+          "Elegância acessível",
+          "Uma estética cuidadosa em cada detalhe."
+        ]
+      ],
+      "varietyTitle": "Quatro formas de nos descobrir",
+      "varietyCopy": "Abacaxi, laranja, coco e pêssego. Uma coleção de expressões frutadas únicas.",
+      "feature": "Mais que apresentação",
+      "featureText": "A identidade está em cada detalhe: tipografia, luz, textura e conexão com nossas origens.",
+      "identityTitle": "Uma origem que inspira",
+      "identityText": "Nossa perspectiva começa em Tarija, onde a cultura regional e as frutas inspiram a linguagem da marca.",
+      "closing": "Uma expressão de Tarija. A identidade Charpalanca."
+    },
+    "varieties": {
+      "eyebrow": "A coleção",
+      "title": "Nossas variedades",
+      "intro": "Quatro expressões de frutas, uma identidade. Conheça as variedades de Charpalanca.",
+      "note": "Imagens ilustrativas da proposta de apresentação.",
+      "names": {
+        "pina": "Abacaxi",
+        "naranja": "Laranja",
+        "coco": "Coco",
+        "durazno": "Pêssego"
+      },
+      "desc": {
+        "pina": "Uma expressão tropical de identidade dourada.",
+        "naranja": "Uma expressão cítrica de caráter acolhedor.",
+        "coco": "Uma expressão suave de estética marfim.",
+        "durazno": "Uma expressão frutada em tons de pêssego."
+      },
+      "kickers": {
+        "pina": "Expressão dourada",
+        "naranja": "Expressão âmbar",
+        "coco": "Expressão marfim",
+        "durazno": "Expressão de pêssego"
+      }
+    },
+    "detail": {
+      "back": "Voltar às variedades",
+      "label": "Uma variedade Charpalanca",
+      "eyebrow": "A coleção de frutas",
+      "discover": "Explore outra expressão",
+      "title": "Uma identidade, quatro expressões",
+      "disclaimer": "As imagens são representações conceituais da apresentação visual.",
+      "views": "Duas perspectivas",
+      "front": "Vista frontal",
+      "angle": "Segundo ângulo",
+      "next": "Explore outros sabores"
+    },
+    "essence": {
+      "eyebrow": "Filosofia da marca",
+      "title": "Nossa essência",
+      "intro": "Uma visão artesanal em que a identidade regional encontra um design refinado.",
+      "subheading": "A beleza do que uma marca representa",
+      "paragraph": "Charpalanca é uma proposta de macerados de frutas inspirada na identidade chapaca. Nossa direção visual combina materiais, formas e contrastes para comunicar uma experiência artesanal sofisticada e acessível.",
+      "quote": "O caráter de uma marca também se constrói nos detalhes.",
+      "cards": [
+        [
+          "01",
+          "Identidade",
+          "Tarija como inspiração cultural e visual."
+        ],
+        [
+          "02",
+          "Expressão frutada",
+          "Abacaxi, laranja e coco como protagonistas da coleção."
+        ],
+        [
+          "03",
+          "Apresentação",
+          "Uma estética premium acessível, elegante e coerente."
+        ]
+      ]
+    },
+    "identity": {
+      "eyebrow": "Origem e inspiração",
+      "title": "Identidade chapaca",
+      "intro": "Tarija inspira a linguagem visual e o caráter de Charpalanca.",
+      "subheading": "Um olhar para a origem",
+      "paragraph": "A identidade chapaca é o ponto de partida da nossa proposta. Inspirados em Tarija, reunimos elementos visuais da paisagem e uma paleta acolhedora que dialoga com o preparo artesanal de frutas.",
+      "quote": "Tarija não é apenas um lugar: é inspiração para nossa identidade.",
+      "label": "Inspirado em Tarija",
+      "cards": [
+        [
+          "Origem",
+          "Uma referência regional que dá sentido à marca."
+        ],
+        [
+          "Texturas",
+          "Materiais, luzes e contrastes de caráter artesanal."
+        ],
+        [
+          "Frutas",
+          "Abacaxi, laranja e coco como expressão do conceito Charpalanca."
+        ]
+      ]
+    },
+    "gallery": {
+      "eyebrow": "Universo visual",
+      "title": "Galeria",
+      "intro": "Um olhar sobre as imagens, texturas e expressões visuais de Charpalanca.",
+      "labels": [
+        "Celebrações",
+        "Aniversários",
+        "Presentes",
+        "Abacaxi",
+        "Laranja",
+        "Coco",
+        "Pêssego",
+        "Nossos vales",
+        "Nossas origens"
+      ]
+    },
+    "contact": {
+      "eyebrow": "Vamos conversar",
+      "title": "Contato",
+      "intro": "Estamos disponíveis para consultas institucionais sobre Charpalanca.",
+      "phone": "Telefone",
+      "place": "Localização",
+      "placeValue": "Tarija, Bolívia",
+      "social": "Redes sociais",
+      "soon": "Em breve",
+      "phoneAction": "Ligar",
+      "other": "Uma marca inspirada em Tarija",
+      "otherText": "Entre em contato pelo canal disponível.",
+      "legal": "A disponibilidade de produtos e as informações técnicas devem ser confirmadas pelos canais adequados."
+    },
+    "footer": {
+      "desc": "Macerados artesanais de frutas inspirados na identidade chapaca de Tarija.",
+      "explore": "Explorar",
+      "institutional": "Institucional",
+      "copyright": "Charpalanca. Identidade visual e conteúdo do site.",
+      "note": "Imagens ilustrativas."
+    },
+    "history": {
+      "eyebrow": "Nossas origens",
+      "title": "Nossa história",
+      "intro": "Uma ideia compartilhada, inspirada em Tarija.",
+      "heading": "Uma ideia que nasceu entre amigos",
+      "paragraphs": [
+        "Tudo começou durante um encontro de amigos. Entre conversas sobre bebidas e sabores, surgiu uma pergunta: por que não criar algo próprio, diferente e especial?",
+        "Com nossos conhecimentos e a inspiração da tradição tarijenha de macerados de frutas, nasceu a ideia de Charpalanca.",
+        "Desde o início, queríamos criar uma marca além de uma bebida comum: uma proposta artesanal com identidade chapaca, apresentação elegante e imagem premium."
+      ]
+    },
+    "moments": {
+      "eyebrow": "Cada ocasião é especial",
+      "title": "Momentos Charpalanca",
+      "intro": "Uma expressão elegante para ocasiões especiais.",
+      "labels": [
+        "Presentes especiais",
+        "Aniversários",
+        "Eventos e celebrações",
+        "Uma lembrança de Tarija"
+      ],
+      "texts": [
+        "Um presente que se destaca",
+        "Momentos para recordar",
+        "Celebrações com identidade",
+        "Nossa inspiração regional"
+      ]
+    }
+  }
+}
